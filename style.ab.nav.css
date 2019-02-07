@@ -14,7 +14,7 @@ input.a-search {position: relative;z-index: 10;outline: none;border: none;backgr
 /* nav media query */
 @media screen and (max-width: 800px) {.a-scroll-right-1, .a-scroll-right-2 {padding: 15px 15px 0;}.right-1-nav ul {padding-left: 10px;}}
 @media screen and (max-width: 768px) {.right-1-nav ul {width: 50%;padding-left: 25px;}.subscriber-box {margin: 20px 0 0 0;padding: 0;}.right-1-nav ul.a-nav-2{border-right: none;}}
-@media screen and (max-width: 720px) {.avowova-nav > li > a,.avowova-nav li > ul.an-submenu {padding: 0 10px;}.avowova-nav li > ul.an-submenu li {padding: 0 5px;}}
+@media screen and (max-width: 720px) {.avowova-nav > li > a,.avowova-nav li > ul.an-submenu {padding: 0 8px;}.avowova-nav li > ul.an-submenu li {padding: 0 5px;}}
 @media screen and (max-width: 640px) {.a-nav-wrap.a-open-all {-webkit-transform: translateX(0px);-moz-transform: translateX(0px);transform: translateX(0px);width: 100%;}.a-nav-wrap.a-open-all .a-scroll-left {width: 100%}.a-scroll-right {display:none;}}
 @media screen and (max-width: 600px) {.submenu-icon span {display: none;}.submenu-icon:before {margin: 0 4px;}}
 @media screen and (max-width: 425px) {.avowova-nav li.a-trigger {min-width: 35px;}.a-icon-nav:before, .a-icon-nav.a-selected:before {margin-left: 0;margin-right:0px;}.avowova-nav > li > a.a-icon-nav span {display: none;}}
